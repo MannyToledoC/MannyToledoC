@@ -1,8 +1,8 @@
-### Hi there 👋
+<!--### Hi there 👋 -->
 
 
-
-
+<img src="https://raw.githubusercontent.com/MannyToledoC/MannyToledoC/main/assets/2DTX.gif" width="25%" />
+<img src="https://raw.githubusercontent.com/MannyToledoC/MannyToledoC/main/assets/1kLR.gif" width="5%" align="right" />
 <!--
 **MannyToledoC/MannyToledoC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
