@@ -5,6 +5,7 @@
 <br/>
 software engineer
 current obsessions -> Go && Rust
+<a href="https://github.com/MannyToledoC/tbd" alt="tbd">working on</a>
 <br/>
 </pre>
 <img src="https://raw.githubusercontent.com/MannyToledoC/MannyToledoC/main/assets/2DTX.gif" style="width:17rem;" align="right" />
