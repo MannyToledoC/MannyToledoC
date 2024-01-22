@@ -12,20 +12,20 @@ current obsessions -> Go && Rust
 cool computer stuff I know
 </pre>
 <div>
-<img   alt="React" width="30px" style="padding-right:2rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-    <img   alt="JavaScript" width="30px" style="padding-right:2rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-    <img   alt="TypeScript" width="30px" style="padding-right:2rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-    <img   alt="NodeJS" width="30px" style="padding-right:2rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-    <img   alt="Sass" width="30px" style="padding-right:2rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />  
-    <img   alt="Docker" width="30px" style="padding-right:2rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>  
-    <img   alt="Webpack" width="30px" style="padding-right:2rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg"/>  
-    <img   alt="Java" width="30px" style="padding-right:2rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-    <img   alt="Python" width="30px" style="padding-right:2rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-    <img   alt="Golang" width="30px" style="padding-right:2rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
-    <img   alt="C++" width="30px" style="padding-right:2rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" />
-    <img   alt="C++" width="30px" style="padding-right:2rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-    <img   alt="HTML" width="30px" style="padding-right:2rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-    <img   alt="CSS" width="30px" style="padding-right:2rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img alt="React" width="30px" style="padding-right:2rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+    <img alt="JavaScript" width="30px" style="padding-right:2rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+    <img alt="TypeScript" width="30px" style="padding-right:2rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+    <img alt="NodeJS" width="30px" style="padding-right:2rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+    <img alt="Sass" width="30px" style="padding-right:2rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />  
+    <img alt="Docker" width="30px" style="padding-right:2rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>  
+    <img alt="Webpack" width="30px" style="padding-right:2rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg"/>  
+    <img alt="Java" width="30px" style="padding-right:2rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+    <img alt="Python" width="30px" style="padding-right:2rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+    <img alt="Golang" width="30px" style="padding-right:2rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
+    <img alt="C++" width="30px" style="padding-right:2rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" />
+    <img alt="C++" width="30px" style="padding-right:2rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+    <img alt="HTML" width="30px" style="padding-right:2rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+    <img alt="CSS" width="30px" style="padding-right:2rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
   </div>
 
 <br/>
