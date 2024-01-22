@@ -7,11 +7,10 @@ software engineer
 current obsessions -> Go && Rust
 <br/>
 </pre>
-<img src="https://raw.githubusercontent.com/MannyToledoC/MannyToledoC/main/assets/2DTX.gif" style="height:17rem;" align="right" />
+<img src="https://raw.githubusercontent.com/MannyToledoC/MannyToledoC/main/assets/2DTX.gif" style="width:17rem;" align="right" />
 <pre>
 cool computer stuff I know
 </pre>
-<div>
 <img alt="React" width="30px" style="padding-right:2rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
     <img alt="JavaScript" width="30px" style="padding-right:2rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
     <img alt="TypeScript" width="30px" style="padding-right:2rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
@@ -26,7 +25,6 @@ cool computer stuff I know
     <img alt="C++" width="30px" style="padding-right:2rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
     <img alt="HTML" width="30px" style="padding-right:2rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
     <img alt="CSS" width="30px" style="padding-right:2rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-  </div>
 
 <br/>
 <br/>
