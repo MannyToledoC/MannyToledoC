@@ -7,7 +7,7 @@ software engineer
 current obsessions -> Go && Rust
 <br/>
 </pre>
-<img src="https://raw.githubusercontent.com/MannyToledoC/MannyToledoC/main/assets/2DTX.gif" width="25%" align="right" />
+<img src="https://raw.githubusercontent.com/MannyToledoC/MannyToledoC/main/assets/2DTX.gif" style="height:17rem;" align="right" />
 <pre>
 cool computer stuff I know
 </pre>
