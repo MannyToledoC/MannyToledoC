@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/MannyToledoC/MannyToledoC/main/assets/1kLR.gif" width="5%"/>
+<img src="https://raw.githubusercontent.com/MannyToledoC/MannyToledoC/main/assets/1kLR.gif" style="width:4rem"/>
 
 <pre>
 <br/>
@@ -12,7 +12,7 @@ current obsessions -> Go && Rust
 cool computer stuff I know
 </pre>
 <div>
-    <img   alt="React" width="30px" style="padding-right:2rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img   alt="React" width="30px" style="padding-right:2rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
     <img   alt="JavaScript" width="30px" style="padding-right:2rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
     <img   alt="TypeScript" width="30px" style="padding-right:2rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
     <img   alt="NodeJS" width="30px" style="padding-right:2rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
