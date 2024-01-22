@@ -21,18 +21,17 @@ cool computer stuff I know
     <img alt="Java" width="30px" style="padding-right:2rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
     <img alt="Python" width="30px" style="padding-right:2rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
     <img alt="Golang" width="30px" style="padding-right:2rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
-    <img alt="C++" width="30px" style="padding-right:2rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" />
+    <img alt="C" width="30px" style="padding-right:2rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" />
     <img alt="C++" width="30px" style="padding-right:2rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
     <img alt="HTML" width="30px" style="padding-right:2rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
     <img alt="CSS" width="30px" style="padding-right:2rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-
 <br/>
 <br/>
 <pre>
 lets chat
 </pre>
 <div align="">
-  <a href="linkedin.com/in/mannytoledoc" target="_blank" >
+  <a href="https://www.linkedin.com/in/mannytoledoc" target="_blank" >
     <img alt="linkedin" style="height:2rem; "src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a>
   <a href="https://www.codewars.com/users/MannyToledoC/" target="_blank" >
     <img alt="codewars"  style="height:2rem;" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/codewars.svg"></a>
